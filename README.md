@@ -20,7 +20,7 @@ The purpose of this project is to create a Customer Travel Destination App, wher
 
 **Vacation_Itinerary**
 
-![Figure3](directionlayer)
+![Figure3](Vacation_Itinerary/WeatherPy_travel_map.png)
 
 In this project, a four city vacation itinerary is created using Google maps directions API. Followed by the directions map, a marker map is also created using Google map marker, including the Hotel name,City, country, Current description and Max Temp.
 
