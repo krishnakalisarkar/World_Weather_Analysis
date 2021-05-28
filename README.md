@@ -2,7 +2,7 @@
 
 Weather Analysis using API
 
-![Figure1](Vacation_Itinerary/WeatherPy_travel_map_marker.png)
+![Figure1](Heatmap.png)
 
 ## Purpose:
 
