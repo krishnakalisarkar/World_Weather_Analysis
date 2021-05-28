@@ -2,7 +2,7 @@
 
 Weather Analysis using API
 
-![Figure1](heatmap)
+![Figure1](Vacation_Itinerary/WeatherPy_travel_map_marker.png)
 
 ## Purpose:
 
@@ -14,7 +14,7 @@ The main purpose of the Weather Database is to create a weather App and help tra
 
 **Vacation_Search**
 
-![Figure3](Vacationsearch)
+![Figure3](Vacation_Search/WeatherPy_vacation_map.png)
 
 The purpose of this project is to create a Customer Travel Destination App, where based on the customer input of desired maximum and minimum temp a list of city names are created. Using the Google Map Platform, searchnearby API, the nearest hotel name is added to the dataframe. The new dataframe now has the City name, Country, Max Temp, current description, coordinates( lat a nd lng) and Hotel name. After creating a clean dataframe with hotel names a google map marker layer is created with locations and hotel info.
 
