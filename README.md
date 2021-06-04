@@ -9,7 +9,6 @@ Weather Analysis using API
 **Weather Database**
 
 ![Figure2](Weather_Database/City_weather.png)
-
 *Table1: List of random locations with their latitude,longitude and weather conditions.*
 
 The main purpose of the Weather Database is to create a weather App and help travelers choose travel locations based on weather conditions and temperature. For this project 2000 random location coordinates (latitude and longitude) were generated. Based on the coordinates generated and using Open weather API key, the City, Country, Max Temp, Current Weather conditions, Humidity, Cloudiness and Wind speed data was obtained and converted into a dataframe.
